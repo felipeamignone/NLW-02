@@ -1,6 +1,7 @@
 import React from 'react';
 import {BrowserRouter, Route} from 'react-router-dom'
 
+import Form from './pages/Form';
 import Landing from './pages/Landing';
 import TeacherForm from './pages/TeacherForm';
 import TeacherList from './pages/TeacherList';
